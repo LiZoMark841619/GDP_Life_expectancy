@@ -1,4 +1,4 @@
-# GDP_vs_Life_expectancy #
+# GDP_Life_expectancy #
 
 This is a group project for practice purposes related to Data Analysis from Codecademy.
 
